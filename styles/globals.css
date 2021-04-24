@@ -1,0 +1,51 @@
+html,
+body {
+  height:100vh;
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.movie-icon:hover, .back-icon:hover {
+  background-color: black;
+}
+
+.movie-icon {
+  position:fixed;
+  left:10px;
+  bottom:3px;
+  background-color: red;
+}
+
+.location-icon {
+  position:fixed;
+  left:10px;
+  bottom:48px;
+  background-color: red;
+}
+
+.gallery-icon {
+  position:fixed;
+  left:10px;
+  bottom:93px;
+  background-color: red;
+}
+
+.back-icon {
+  position:fixed;
+  right:5px;
+  bottom:3px;
+  background-color: red;
+}
+
+

@@ -1,0 +1,19 @@
+.heading {
+    font-size:40px;
+}
+
+.bg {
+    text-align:center;
+    background-color: black;
+    color:white;
+}
+
+.box {
+    outline:1px solid black;
+    background-color: red;
+    list-style-type: none;
+    box-shadow: 3px 3px 3px white;
+    padding:10px;
+    margin-left:13px;
+    margin-right:60px;
+}
